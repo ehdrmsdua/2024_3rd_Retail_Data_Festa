@@ -1,6 +1,6 @@
 # Title: The 3rd Distribution Data Utilization Competition <br/>
 ## Topic: Demand Forecasting for Distribution and Logistics<br/>
-## Period: 2024.9 - 2024.10 <br/>
+## Period: 2024.09 - 2024.10 <br/>
 
 ### Leader : <br/>
 Donghui GWON - Sungkyul Univ_Industrial Management Engineering <br/>
